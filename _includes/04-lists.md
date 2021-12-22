@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Steve Jobs
+* Shoe Dog
+  * Atlas Shrugged
+  * Anthem
